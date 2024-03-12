@@ -1,0 +1,33 @@
+[
+    {
+        "title" : "cFolderTitleQuote",
+        "subtitle" : "cFolderSubtitleQuote",
+        "fullDescription" : "cFolderFullDescriptionQuote",
+        "cardIdentifierType" : "Quote",
+        "cardIdentifierAddition" : "",
+        "favorite" : false,
+        "merchantID": "",
+        "locked" : true
+    },
+    {
+        "title" : "cFolderTitleAffirmations",
+        "subtitle" : "cFolderSubtitleAffirmations",
+        "fullDescription" : "cFolderFullDescriptionAffirmations",
+        "cardIdentifierType" : "Affirmation",
+        "cardIdentifierAddition" : "",
+        "favorite" : false,
+        "merchantID": "",
+        "locked" : true
+    },
+    {
+        "title" : "cFolderTitleFavorite",
+        "subtitle" : "cFolderSubtitleFavorite",
+        "fullDescription" : "cFolderFullDescriptionFavorite",
+        "cardIdentifierType" : "",
+        "cardIdentifierAddition" : "",
+        "favorite" : true,
+        "merchantID": "",
+        "locked" : false
+    },
+]
+

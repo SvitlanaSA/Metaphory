@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22225" systemVersion="23B92" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="Card" representedClassName="CDCard" syncable="YES">
+        <attribute name="cdCardType" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="cdLocked" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="cdTitle" attributeType="String" defaultValueString=""/>
+        <relationship name="cdCategories" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="CardCategory" inverseName="cdCards" inverseEntity="CardCategory"/>
+        <relationship name="cdFolderItems" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="FolderItem" inverseName="cdCard" inverseEntity="FolderItem"/>
+        <relationship name="cdFrontImageAttachments" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="FrontImageAttachment" inverseName="cdCards" inverseEntity="FrontImageAttachment"/>
+    </entity>
+    <entity name="CardCategory" representedClassName="CDCardCategory" syncable="YES">
+        <attribute name="cdCategory" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <relationship name="cdCards" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Card" inverseName="cdCategories" inverseEntity="Card"/>
+    </entity>
+    <entity name="Folder" representedClassName="CDFolder" syncable="YES">
+        <attribute name="cdFavorite" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="cdFullDescription" optional="YES" attributeType="String"/>
+        <attribute name="cdIndex" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="cdLocked" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="cdMerchantID" optional="YES" attributeType="String"/>
+        <attribute name="cdSubTitle" optional="YES" attributeType="String"/>
+        <attribute name="cdTitle" optional="YES" attributeType="String"/>
+        <attribute name="cdUUID" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <relationship name="cdItems" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="FolderItem" inverseName="cdFolder" inverseEntity="FolderItem"/>
+    </entity>
+    <entity name="FolderItem" representedClassName="CDFolderItem" syncable="YES">
+        <attribute name="cdFolderIndex" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="cdRemovable" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <relationship name="cdCard" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Card" inverseName="cdFolderItems" inverseEntity="Card"/>
+        <relationship name="cdFolder" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Folder" inverseName="cdItems" inverseEntity="Folder"/>
+    </entity>
+    <entity name="FrontImageAttachment" representedClassName="CDFrontImageAttachment" syncable="YES">
+        <attribute name="cdImageData" optional="YES" attributeType="Binary"/>
+        <attribute name="cdImageName" optional="YES" attributeType="String"/>
+        <attribute name="cdImageThumbnailName" optional="YES" attributeType="String"/>
+        <attribute name="cdRemoteValue" optional="YES" attributeType="String"/>
+        <relationship name="cdCards" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Card" inverseName="cdFrontImageAttachments" inverseEntity="Card"/>
+    </entity>
+</model>

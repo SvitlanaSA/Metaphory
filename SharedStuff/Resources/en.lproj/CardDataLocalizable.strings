@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  MetaCards
+
+  Created by Svetlana Stegnienko on 03.01.2024.
+  
+*/
+"cCardIdentifier_Affirmation_1" = "I am deserving of love and kindness.";
+"cCardIdentifier_Affirmation_2" = "My worth is not determined by external opinions.";
+"cCardIdentifier_Affirmation_3" = "I choose to love and accept myself unconditionally.";
+"cCardIdentifier_Affirmation_4" = "I am enough just as I am.";
+"cCardIdentifier_Affirmation_5" = "My imperfections make me unique and beautiful.";
+"cCardIdentifier_Affirmation_6" = "I release all negative self-talk and embrace positivity.";
+"cCardIdentifier_Affirmation_7" = "I trust in my ability to overcome challenges.";
+"cCardIdentifier_Affirmation_8" = "I am proud of the person I am becoming.";
+"cCardIdentifier_Affirmation_9" = "I am a work in progress, and that's okay.";
+"cCardIdentifier_Affirmation_10" = "I am worthy of all the joy and happiness life has to offer.";
+
+
+"cCardIdentifier_Quote_1" = "The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt";
+"cCardIdentifier_Quote_2" = "Your time is limited, don't waste it living someone else's life. - Steve Jobs";
+"cCardIdentifier_Quote_3" = "Success usually comes to those who are too busy to be looking for it. - Henry David Thoreau";
+"cCardIdentifier_Quote_4" = "The only way to do great work is to love what you do. - Steve Jobs";
+"cCardIdentifier_Quote_5" = "Success is not final, failure is not fatal: It is the courage to continue that counts. - Winston Churchill";
+"cCardIdentifier_Quote_6" = "Don't watch the clock; do what it does. Keep going. - Sam Levenson";
+"cCardIdentifier_Quote_7" = "The road to success and the road to failure are almost exactly the same. - Colin R. Davis";
+"cCardIdentifier_Quote_8" = "Believe you can and you're halfway there. - Theodore Roosevelt";
+"cCardIdentifier_Quote_9" = "Success is not in what you have, but who you are. - Bo Bennett";
+"cCardIdentifier_Quote_10" = "The only place where success comes before work is in the dictionary. - Vidal Sassoon";
+"cCardIdentifier_Quote_11" = "Success is walking from failure to failure with no loss of enthusiasm. - Winston Churchill";
+"cCardIdentifier_Quote_12" = "Success is not just about making money. It's about making a difference. - Unknown";
+"cCardIdentifier_Quote_13" = "Don't be afraid to give up the good to go for the great. - John D. Rockefeller";
+"cCardIdentifier_Quote_14" = "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will. - Vince Lombardi";
+"cCardIdentifier_Quote_15" = "If you are not willing to risk the usual, you will have to settle for the ordinary. - Jim Rohn";
+
+
+"cCardCategoryHealthAndWellBeing" = "Health and well-being";
+"cCardCategorySelf-Love" = "Self-love";
+"cCardCategorySuccessAndAbundanceAffirmations" = "Success and Abundance";
+"cCardCategoryInspirationAndCreativity" = "Inspiration And Creativity";
+"cCardCategoryRelationships" = "Love and Relationships";
+"cCardCategoryLifeAndWisdom" = "Life and Wisdom";
+"cCardCategoryPositivityAndMindfulness" = "Positivity and Mindfulness";
+"cCardCategorySuccessAndMotivation" = "Success and Motivation";
+"cCardCategoryFairytale" = "cCardCategoryFairytale";
+"cCardCategoryWatercolor" = "cCardCategoryWatercolor";
+"cCardCategoryHarmonyHues" = "cCardCategoryHarmonyHues";
+
+"cCardTypeMetaCards" = "Metaphorical cards";
+"cCardTypeAffirmations" = "Affirmations";
+"cCardTypeQuates" = "Quotes";
+
+"cFolderTitleQuote" = "Quotes";
+"cFolderTitleAffirmations" = "Affirmations";
+"cFolderTitleFavorite" = "Favorites";
+
+"cFolderSubtitleQuote" = "Dive into a world of wisdom and inspiration with a curated collection of quotes.\nThe set contains more than 1000 quotes for all occasions.";
+"cFolderSubtitleAffirmations" = "Unlock your potential with daily affirmations. Start your mornings on a positive note and cultivate a mindset of abundance and resilience.";
+"cFolderSubtitleFavorite" = "You can save your favorite metaphorical cards, quotes, affirmations here.";
+
+"cFolderFullDescriptionQuote" = "Dive into a world of wisdom and inspiration with a curated collection of quotes. \nThe set contains over 1000 quotes, divided into the following categories: \n\nInspiration and creativity\nLife and wisdom \nPositivity and mindfulness\nLove and relationships \nSuccess and motivation\n\nStart your transformative journey today\n\nNumber of quotes: 1022";
+"cFolderFullDescriptionAffirmations" = "Unlock your potential with daily affirmations. Start your mornings on a positive note and cultivate a mindset of abundance and resilience. Whether you're seeking motivation, self-love, or manifestation, our affirmations are tailored to uplift every aspect of your life.\n\nThe set contains more than 600 affirmations divided into categories:\n- Health and wellness\n- Self-love\n- Success and prosperity\n- Love and relationships\n\nTransform your mindset and experience the power of positive thinking.";
+"cFolderFullDescriptionFavorite" = "You can save your favorite metaphorical cards, quotes, affirmations here.";

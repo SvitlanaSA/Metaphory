@@ -1,0 +1,47 @@
+[
+    {
+        "categoryIdentifier" : "cCardCategorySelf-Love",
+        "cardIdentifiers" : [
+            "cCardIdentifier_Affirmation_1",
+            "cCardIdentifier_Affirmation_2",
+            "cCardIdentifier_Affirmation_3",
+            "cCardIdentifier_Affirmation_4",
+            "cCardIdentifier_Affirmation_5",
+            "cCardIdentifier_Affirmation_6",
+            "cCardIdentifier_Affirmation_7",
+        ],
+    },
+    {
+        "categoryIdentifier" : "cCardCategorySuccessAndAbundanceAffirmations",
+        "cardIdentifiers" : [
+            "cCardIdentifier_Affirmation_8",
+            "cCardIdentifier_Affirmation_9",
+            "cCardIdentifier_Affirmation_10",
+        ],
+    },
+    {
+        "categoryIdentifier" : "cCardCategoryPositivityAndMindfulness",
+        "cardIdentifiers" : [
+            "cCardIdentifier_Quote_12",
+            "cCardIdentifier_Quote_13",
+            "cCardIdentifier_Quote_14",
+            "cCardIdentifier_Quote_15",
+        ],
+    },
+    {
+        "categoryIdentifier" : "cCardCategorySuccessAndMotivation",
+        "cardIdentifiers" : [
+            "cCardIdentifier_Quote_1",
+            "cCardIdentifier_Quote_10",
+            "cCardIdentifier_Quote_11",
+            "cCardIdentifier_Quote_2",
+            "cCardIdentifier_Quote_3",
+            "cCardIdentifier_Quote_4",
+            "cCardIdentifier_Quote_5",
+            "cCardIdentifier_Quote_6",
+            "cCardIdentifier_Quote_7",
+            "cCardIdentifier_Quote_8",
+            "cCardIdentifier_Quote_9",
+        ],
+    },
+]

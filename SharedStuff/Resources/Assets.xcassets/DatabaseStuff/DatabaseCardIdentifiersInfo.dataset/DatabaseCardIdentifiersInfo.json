@@ -1,0 +1,24 @@
+[
+    {
+        "count" : 10,
+        "frontImageLinkBase" : "",
+        "frontImageLinkExtension" : "",
+        "frontImageThumbnailBase" : "",
+        "identifierInfo" : {
+            "identifierRoot" : "cCardIdentifier",
+            "identifierType" : "Affirmation",
+            "identifierAddition" : "",
+        },
+    },
+    {
+        "count" : 15,
+        "frontImageLinkBase" : "",
+        "frontImageLinkExtension" : "",
+        "frontImageThumbnailBase" : "",
+        "identifierInfo" : {
+            "identifierRoot" : "cCardIdentifier",
+            "identifierType" : "Quote",
+            "identifierAddition" : "",
+        },
+    },
+]

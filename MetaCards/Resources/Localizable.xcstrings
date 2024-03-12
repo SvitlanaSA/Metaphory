@@ -1,0 +1,864 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "All cards" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выбрать все"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Обрати все"
+          }
+        }
+      }
+    },
+    "Application support three languages:\n* english\n* ukrainian\n* russian\n\nYou can choose another language in application settings:" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Приложение поддерживает три языка:\n   - английский\n   - украинский\n   - русский\n\n   Вы можете выбрать другой язык в настройках программы:"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Додаток підтримує три мови:\n   - англійську\n   - українську\n   - російську\n\n  Ви можете вибрати іншу мову в налаштуваннях додатку:"
+          }
+        }
+      }
+    },
+    "cBuyPrintedDecks" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Source of metaphorical cards"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Источник метафорических карт"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Джерело метафоричних карт"
+          }
+        }
+      }
+    },
+    "Choose content" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose content"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выберите секцию"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виберіть секцію"
+          }
+        }
+      }
+    },
+    "cLanguage" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Language"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Язык"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мова"
+          }
+        }
+      }
+    },
+    "cNotificationContentCardLongPressHint" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perform long press on the notification to see content of your card"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нажмите и удерживайте уведомление, чтобы увидеть содержимое карты."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Натисніть і утримуйте сповіщення, щоб побачити вміст картки"
+          }
+        }
+      }
+    },
+    "cNotificationContentMetacardBody" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perform long press on the notification to see your metacard"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нажмите и удерживайте уведомление, чтобы увидеть свою метакарту."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Натисніть і утримуйте сповіщення, щоб побачити свою метакарту"
+          }
+        }
+      }
+    },
+    "cNotificationContentTitle" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daily Card"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ежедневная карточка"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Щоденна картка"
+          }
+        }
+      }
+    },
+    "cNotificationSettings" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notification settings"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настройки уведомлений"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Налаштування повідомлень"
+          }
+        }
+      }
+    },
+    "cNotificationSettingsCardsParticipation" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cards to be used"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Карточки, которые будут использоваться"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Картки, які будуть використовуватися"
+          }
+        }
+      }
+    },
+    "cRestorePurchase" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restore purchases"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Возобновить покупки"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відновити покупки"
+          }
+        }
+      }
+    },
+    "cTechniqueAchievingGoal" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Achieving the goal"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Достижение цели"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Досягнення цілі"
+          }
+        }
+      }
+    },
+    "cTechniqueAchievingGoalDetailed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Formulate your goal mentally and draw four cards.\n\n* The first card reveals your current internal need.\n* The second card illustrates what will aid you in achieving your goal.\n* The third card outlines obstacles to this goal.\n* The fourth card depicts the potential outcome of achieving your goal."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сформируйте мысленно вашу цель и вытяните четыре карты.  \n1-я карта показывает, в чем ваша внутренняя потребность на данный момент. \n2-я карта иллюстрирует, что вам поможет в достижений вашей цели. \n3-я карта описывает, что является препятствием на пути к этой цели. \n4-я карта изображает, что может быть истинным результатом достижения вашей цели."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сформуйте вашу ціль і витягніть чотири карти.\n\n1-я карта показує, в чому ваша внутрішня потреба в даний момент.\n\n2-я карта ілюструє, що вам допоможе в досягненні вашої цілі.\n\n3-я карта описує, що є перешкодою на шляху до цієї ціли.\n\n4-я карта відображає, що може бути справжнім результатом досягнення вашої цілі.\n"
+          }
+        }
+      }
+    },
+    "cTechniqueHarmoniousRelationships" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "«Harmonious Relationships» Technique"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Техника «Гармоничные отношения»"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Техніка «Гармонічні відносини»"
+          }
+        }
+      }
+    },
+    "cTechniqueHarmoniousRelationshipsDetailed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Each individual perceives the material world through five channels: sight, hearing, smell, touch, and taste. \n\nDraw a card for each sense organ, posing questions related to each channel of perception. For example, the first card represents vision. \n\nQuestions may include: \n\nWhat do I desire or avoid seeing in my life situation? \n\nWhat aspects am I avoiding confronting? \n\nWhat am I overlooking?"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У каждого человека есть 5 каналов, по которым он воспринимает этот материальный мир: зрение, слух, обоняние, осязание, вкус.\n\nНа каждый орган чувства вытягиваем по карте, задавая вопрос, связанный с тем или иным каналом восприятия ситуации.\n\nНапример, карта 1 - зрение.\nВопросы:\n* Что я хочу / не хочу видеть в моей жизненной ситуации? (относительно карты).\n* На что я закрываю глаза?\n* На что мне не хочется смотреть?"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У кожної людини є 5 каналів, за якими він створює цей матеріальний світ: зір, слух, нюх, дотик, смак. \n\nНа кожен орган почуття витягується по карті, задається питання, пов'язане з темою або іншим каналом ситуації виникнення ситуації.\n\nНаприклад, карта 1 - зір.\n\nПитання:\n* Що я хочу / не хочу бачити в моїй життєвій ситуації? (відносно карти).\n* На що я закриваю очі?\n* На що я не хочу дивитися?"
+          }
+        }
+      }
+    },
+    "cTechniqueHouseofMyFear" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "«House of My Fear» Technique"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Техника «Дом моего страха» "
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Техніка «Будинок мого страху»"
+          }
+        }
+      }
+    },
+    "cTechniqueHouseofMyFearDetailed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aim: transformation of anxiety. Select six cards sequentially to delve into the situation:\n\n* Two cards represent the foundation, diagnosing the root cause of fear or anxiety.\n\n* Two cards symbolize windows, revealing internal processes fueled by external \n\n* One card serves as the roof, offering a resource perspective to shift the viewpoint."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " Цель: трансформация тревожного состояния.\nПогружаемся в ситуацию и выбираем поочередно 6 карт\n\n* 2 карты - Фундамент. Основа страха/тревоги. Диагностика происходящего в действительности, ставшего причиной тревожного состояния.\n\n* 2 карты - Окна – это внутренние процессы, спровоцированные внешними обстоятельствами. Поиск того, что подпитывает тревожное состояние.\n\n* 1 карта - это Крыша. Карта – ресурс. Взгляд на ситуацию с другого ракурса.\n\nДля просмотра всех карт вместе можно сделать скриншоты\n\n"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ціль: трансформація тривожного стану.\n\nЗанурюємося в ситуацію і вибираємо почерзі 6 карт\n\n* 2 картки - Фундамент. Основа страху/тривоги. Діагностика в чому причина тривожного стану.\n\n* 2 карти - Вікна – це внутрішні процеси, спровоковані зовнішніми обставинами. Пошук того, що викликає тривожний стан.\n\n* 1 карта - це дах. Карта – ресурс. Погляд на ситуацію з іншого кута.\n\nДля перегляду всіх карт разом можна зробити скріншот"
+          }
+        }
+      }
+    },
+    "cTechniqueMyFamily" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "«My Family» Technique"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Техника «Моя семья»"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Техніка «Моя сім'я»"
+          }
+        }
+      }
+    },
+    "cTechniqueMyFamilyDetailed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select cards corresponding to the number of family members, laying them face down.\n  The first card pertains to the individual's self-image, \nThe remaining cards represent projections of each family member onto the central person.   Discuss each position in the arrangement, addressing questions such as:   * What currently exists in this dynamic?  * What barriers hinder mutual understanding?  \n* How can the situation be improved?  "
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выбираем количество карт по количеству членов семьи в закрытую, рубашками вверх.\nРассматриваем карты.  \n Первая карта ассоциируется с собственным \"Я\" образом.\nОстальные карты - проекция всех членов семьи  к центральной особе.\n\nОбсудить каждую позицию «расстановки».\nВопросы:\n* Что есть сейчас?\n* В чем проблема непонимания друг друга?\n* Как можно изменить ситуацию к лучшему?"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вибираємо кількість карток за кількістю членів сім'ї \nРозглядаємо карти. \n\nПерша карта асоціюється з власним \"Я\".\nРешта карт - проекція усіх членів сім'ї до центральної особи.\n\nОбговорити кожну позицію \"розстановки\".\n\nЗапитання:\n* Що є зараз?\n* У чому проблема нерозуміння одне одного?\n* Як можна змінити ситуацію на краще?"
+          }
+        }
+      }
+    },
+    "cTechniqueRequest" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Working with the request"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Работа с запросом"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Работа с запитом"
+          }
+        }
+      }
+    },
+    "cTechniqueRequestDetailed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Formulate an internal request and draw a card.\n Examine the image carefully, comparing it with your current situation. \nReflect on how it unveils the true potential of your circumstances. \n\nWhat actionable steps can you take right now to address your challenge? \n\nThis process offers insights into the underlying essence of your difficulty."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сформируйте внутренний запрос и вытяните карту. Внимательно рассмотрите картину и сопоставьте ее с вашей текущей ситуацией. Осознайте, как он раскрывает истинный потенциал вашей ситуации.  \nЧто вы можете сделать прямо сейчас для решения своей задачи? \n\nТаким образом вы получаете подсказку о том, в чем кроется истинная суть вашей затруднительной ситуации."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сформуйте внутрішній запит і витягніть карту. Уважно розгляньте картину і співставте її з вашою сьогоднішньою ситуацією.   \nЗрозумійте, як вона розкриває справжній потенціал вашої ситуації.\n\nЩо ви можете зробити прямо зараз для вирішення своїх завдань? \n\nТаким чином ви отримуєте підказку, в чому може бути справжня суть ситуації, яка сталась"
+          }
+        }
+      }
+    },
+    "cTechniqueSettingForDay" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Setting for the day"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настройка на день"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Налаштування на день"
+          }
+        }
+      }
+    },
+    "cTechniqueSettingForDayDetailed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "* Describe what is shown here.\n\n* What does this card represent to you?\n\n* What caught your attention the most?\n\n* Are you depicted in the picture?\n\n* What emotions arise when you envision yourself there?\n\n* What actions come to mind when observing the image?\n\n* If this picture could speak, what message might it convey?\n\n* What is the primary message of this card for you?"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "    * Опишите, что здесь изображено?\n\n    * О чем эта карта для вас?\n\n    * Что больше всего привлекло внимание?\n\n    * Есть ли на картинке вы?\n\n    * Что вы чувствуете и ощущаете, будучи там?\n\n    * Что хочется сделать, глядя на карту?\n\n    * Если бы картинка смогла заговорить, что бы она сказала?\n\n    * Какое основное послание этой карты для вас?"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. Напишіть, що тут зображено?\n2. Про що ця карта для вас?\n3. Що більше всього привернуло увагу?\n4. Чи є на картинці ви?\n5. Що ви відчуваєте будучи там?\n6. Що хочеться зробити, дивлячись на карту?\n7. Якщо б картинка змогла заговорити, що б вона сказала?\n8. Яке основне послання цієї карти для вас?"
+          }
+        }
+      }
+    },
+    "cTechniqueStagesofLife" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Technique «Stages of Life»"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Техника «Этапы жизни»"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Техніка «Етапи життя»"
+          }
+        }
+      }
+    },
+    "cTechniqueStagesofLifeDetailed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Draw three cards from the deck and arrange them to represent stages of life: \npast, \npresent,\n future."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вытягиваем из колоды 3 карты. После этого раскладываем их как этапы жизни:  прошлое, \nнастоящее,\n будущее.\n"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Витягуємо з колоди 3 карти. Після цього розкладаємо їх як етапи життя: \nминуле, \nнинішнє,\nмайбутнє.\n"
+          }
+        }
+      }
+    },
+    "cTechniqueTimeforChange" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "«Time for Change» Technique"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Техника «Пора изменений»"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Техніка «Час змін»"
+          }
+        }
+      }
+    },
+    "cTechniqueTimeforChangeDetailed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Draw two cards. For the first card, answer the following questions:\n\n* Describe the character depicted.   What are their thoughts and emotions?  What defines them?  How does this influence their life? What qualities hinder them? What changes are desired?  What message does the card convey?\n\n* For the second card, respond similarly, considering how the depicted character embodies traits to be embraced and integrated for personal growth."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вытягиваем 2 карты. Открывая карту, отвечаем на вопросы к первой карте:\n\n\"Что изменить в себе, от чего нужно отказаться?\"\n\n1. Опишите персонажа на карте. О чем думает? Что чувствует?\n2. Какой это человек? Напишите не менее 5 определений.\n3. Как все это влияет на его жизнь?\n4. Какие качества мешают? В чём слабость?\n5. Что бы хотелось изменить?\n6. Как назвать можно было бы этого человека?\n7. Если бы эта карта смогла заговорить, то что бы она поведала?\n8. Какое основное послание карты для Вас?\n9. Как это о том, от чего нужно отказаться в своей жизни?\n\nВопросы ко второй карте:\n«Что нужно принять в свою жизнь?»\n\n1. Опишите персонажа на карте. Кто там? О чем думает? Что чувствует?\n2. Какой это человек? Напишите не менее 5 определений.\n3. Как все это влияет на его жизнь?\n4. Какие качества помогают в жизни? В чем их сила?\n5. Если бы надо охарактеризовать одним-двумя словами, то как бы вы назвали этого человека?\n6. Если бы эта карта смогла заговорить, то что бы она Вам сказала?\n7. Какое основное послание карты для Вас?\n8. Как это о том, как вам надо изменить себя к лучшему? Какие изменения приведут к лучшему витку Вашей жизни?"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Витягуємо 2 карти. Відкриваючи карту, відповідаємо на питання до першої карти:\n\n\"Що змінити у собі, від чого потрібно відмовитися?\"\n\n1. Опишіть персонажа на карті. Про що думає? Що відчуває?\n2. Яка це людина? Напишіть щонайменше 5 визначень.\n3. Як усе це впливає на життя героя?\n4. Які якості заважають? У чому слабкість?\n5. Що хотілося б змінити?\n6. Як назвати можна було б цю людину?\n7. Якби ця карта змогла заговорити, то що вона повідала?\n8. Яке основне послання картки для Вас?\n9. Від чого потрібно відмовитись у своєму житті?\n\n\nЗапитання до другої карти «Що потрібно прийняти у своє життя?»\n\n1. Опишіть персонажа на карті. Хто там? Про що думає? Що відчуває?\n2. Яка це людина? Напишіть щонайменше 5 визначень.\n3. Як усе це впливає на його життя?\n4. Які якості допомагають у житті? У чому їхня сила?\n5. Якби треба охарактеризувати одним-двома словами, то як би ви назвали цю людину?\n6. Якби ця карта змогла заговорити, то що б вона вам сказала?\n7. Яке основне послання картки для Вас?\n8. Які зміни призведуть до кращого витку вашого життя?\n"
+          }
+        }
+      }
+    },
+    "cWidgetSettings" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widget configuration"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настройка виджетов"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Налаштування віджетів"
+          }
+        }
+      }
+    },
+    "cWorkingwithCards" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Techniques for working with metaphorical cards"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Техники работы с метафорическими картами"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Техніки роботи з метафоричними картками"
+          }
+        }
+      }
+    },
+    "Every day at " : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Каждый день в"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Щодня о"
+          }
+        }
+      }
+    },
+    "Filtered by:" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отфильтровать по:"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відфільтровати по:"
+          }
+        }
+      }
+    },
+    "Hide hint" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide hint"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Спрятать подсказку"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сховати підказку"
+          }
+        }
+      }
+    },
+    "Notifications are disabled in app " : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Уведомления отключены в приложении"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сповіщення вимкнено в додатку"
+          }
+        }
+      }
+    },
+    "Open Settings" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " Открыть настройки"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відкрити налаштування"
+          }
+        }
+      }
+    },
+    "Please check your internet connection" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пожалуйста, проверьте ваше интернет-соединение"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Будь-ласка, перевірте підключення до Інтернету"
+          }
+        }
+      }
+    },
+    "Right-click on the desktop. Choose the widget editing section. Find the Metaphory widgets:" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Щелкните правой кнопкой мыши на рабочем столе. Выберите раздел редактирования виджета. Найдите виджеты \"Metaphory\":"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Клацніть правою кнопкою миші на робочому столі. Виберіть розділ редагування віджету. Знайдіть віджети \"Metaphory\":"
+          }
+        }
+      }
+    },
+    "Settings" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настройки"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Налаштування"
+          }
+        }
+      }
+    },
+    "Show daily card" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пок"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Показати карту дня"
+          }
+        }
+      }
+    },
+    "Show hint" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show hint"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Показать подсказку"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Показати підказку"
+          }
+        }
+      }
+    },
+    "strongly remomended to try" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "рекомендуем попробовать!"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "дуже радимо спробувати"
+          }
+        }
+      }
+    },
+    "To view your favorite affirmations, quotes, and explore metaphorical cards, you don't need to open the app every time - simply add the widget and adjust the content refresh frequency:" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чтобы просматривать любимые аффирмации, цитаты и метафорические карты, вам не нужно каждый раз открывать приложение — просто добавьте виджет и настройте частоту обновления контента:"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Щоб переглядати улюблені афірмації, цитати або метафоричні карти, вам не потрібно щоразу відкривати програму — просто додайте віджет та налаштуйте частоту оновлення контенту:"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
