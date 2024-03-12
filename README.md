@@ -6,11 +6,9 @@ The app includes integrated widgets for enhanced accessibility.
 
 Trimmed version for public viewing.
 
-Screenshots:
+App Preview:
+![Alt text](/Screenshots/MainScreen.png?raw=true "Optional Title")
+![Alt text](/Screenshots/Titles.png?raw=true "Optional Title")
+![Alt text](/Screenshots/Settings.png?raw=true "Optional Title")
 
-[url=https://postimg.cc/tszkCHWz][img]https://i.postimg.cc/RZkDdS02/Screenshot-2024-03-12-at-13-15-15.png[/img][/url]
-
-[url=https://postimg.cc/Nyf4KPxv][img]https://i.postimg.cc/cJf55pgC/Screenshot-2024-03-12-at-13-15-23.png[/img][/url]
-
-[url=https://postimg.cc/1gCKwcWn][img]https://i.postimg.cc/QtsnLf1b/Screenshot-2024-03-12-at-13-18-24.png[/img][/url]
 
